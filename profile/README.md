@@ -1,7 +1,5 @@
 # JCU MSc in Marine Biology: Techniques in Marine Science 1
 
-
-
 ### Here you can find code, repositories and other resources for the individual modules in this class:
 
 
@@ -17,8 +15,5 @@
 
 
 
-
-
-
-### Contacts
-For further information about the GEO Global Ecosystems Atlas project please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
+### Want to know more?
+For further information about MB5370 please view our [class page](https://apps.jcu.edu.au/subjectsearch/#/subject/2024/MB5370) or for more information or the Master of Marine Biology course at James Cook University [click here]()  please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
