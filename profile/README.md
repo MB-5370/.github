@@ -1,6 +1,6 @@
-# JCU MSc in Marine Biology: Techniques in Marine Science 1
+# Techniques in Marine Science 1
 
-### Here you can find code, repositories and other resources for the individual modules in this class:
+### Available to postgraduate science students enrolled in the [Master of Marine Biology at James Cook University](https://www.jcu.edu.au/__data/assets/pdf_file/0006/1922622/Online-Course-Brochure-M-Marine-Biology.pdf). This subject provides students with practical skills and knowledge in data science approaches that are used to understand biological and ecological processes in marine and coastal environments. Learning is problem-based and emphasises hands-on skills development through practical and demonstration sessions. Here you can find code, repositories and other resources for the individual modules in this class:
 
 
 #### [Module 1 - Introduction to Programming](https://github.com/MB-5370/Module-1-Programming)  
@@ -16,4 +16,4 @@
 
 
 ### Want to know more?
-For further information about MB5370 please view our [class page](https://apps.jcu.edu.au/subjectsearch/#/subject/2024/MB5370) or for more information or the Master of Marine Biology course at James Cook University [click here]()  please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
+For further information about MB5370 please view our [class page](https://apps.jcu.edu.au/subjectsearch/#/subject/2024/MB5370) or please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
