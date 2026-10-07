@@ -4,7 +4,7 @@ Available to postgraduate science students enrolled in the [Master of Marine Bio
 
 
 #### [Programming Fundamentals for Marine Science](https://github.com/MB-5370/marine-programming)  
-#### [Marine Data Science in R](https://github.com/MB-5370/marine-data)  
+#### [Marine Data Science in R](https://github.com/MB-5370/R4MarineScience)  
 #### [Global scale marine spatial analysis](https://github.com/MB-5370/marine-spatial)  
 #### [Marine genomics]()  
 
